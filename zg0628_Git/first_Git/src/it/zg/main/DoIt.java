@@ -6,4 +6,8 @@ public class DoIt {
         System.out.println("什么也不做");
     }
 
+    public void doit(){
+        System.out.println("做点什么");
+    }
+
 }
